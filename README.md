@@ -1,6 +1,7 @@
 ## Abstante
 
-![Introducing](https://github.com/silverblurtype/sb-skateblade/assets/163983174/7a5f50b4-9a57-47c7-a1c5-cbffb33785af)
+![Introducing](https://github.com/silverblurtype/abstante/assets/163983174/ddebd38b-7b52-4890-a638-100cbc755739)
+
 
 Abstante is a modern, geometric and minimalistic font.
 
@@ -8,11 +9,9 @@ Abstante is a modern, geometric and minimalistic font.
 
 - All uppercase characters: the lowercase character is equal to the uppercase.
 
-![Font_specimen 2](https://github.com/silverblurtype/sb-skateblade/assets/163983174/fbda2617-bbdd-4b9f-8252-d13a70762ee7)
+![1080 2](https://github.com/silverblurtype/abstante/assets/163983174/2c8bd8b9-c363-42cd-a834-1a4a56de3843)
 
-![1080](https://github.com/silverblurtype/sb-skateblade/assets/163983174/99892fbc-43f6-4146-b866-3d0329091dff)
-
-![4](https://github.com/silverblurtype/sb-skateblade/assets/163983174/8c2afb63-b7bf-4815-ac1d-8e29ddfdc455)
+![Font_specimen 2](https://github.com/silverblurtype/abstante/assets/163983174/2d0ccd85-d291-4bf5-a9a3-a2287c29f9c5)
 
 
 ## License:
