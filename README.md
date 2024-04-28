@@ -1,8 +1,8 @@
-## Skate blade
+## Abstante
 
 ![Introducing](https://github.com/silverblurtype/sb-skateblade/assets/163983174/7a5f50b4-9a57-47c7-a1c5-cbffb33785af)
 
-Skate blade is a modern, geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness.
+Abstante is a modern, geometric and minimalistic font.
 
 - Type of usage: graphic projects, logos, branding.
 
@@ -16,13 +16,13 @@ Skate blade is a modern, geometric and minimalistic fonts constructed with a few
 
 
 ## License:
-Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/skateblade)
+Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/abstante)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
 https://openfontlicense.org
 
 ## Version:
-2.1: Kerning adjustement, Regular Italic.
+1.0: Initial release
 
 ## Contribute:
 If you feel that the font could be useful to you, you can sponsor the project with any amount you deem appropriate. Contributions are optional but highly appreciated.
@@ -33,5 +33,5 @@ I’m very grateful for any support.
 
 ## Download:
 
-[Skateblade-2.1](https://github.com/silverblurtype/skateblade/releases/download/Font/Skateblade-2_1.zip)
+[Abstante-1.0]()
 
