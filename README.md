@@ -17,9 +17,9 @@ Abstante is a modern, geometric and minimalistic font constructed with a few geo
 
 
 ## License:
-Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/abstante)
+Copyright (c) 2024, Silverblur_type 
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
+The typefaces can be freely used for personal and commercial purposes, in accordance with the terms outlined in the license itself, which can be found in the license.txt file and at the following link: 
 https://openfontlicense.org
 
 ## Version:
