@@ -1,13 +1,15 @@
-## Abstante
+# Abstante
 
 ![Introducing](https://github.com/silverblurtype/abstante/assets/163983174/ddebd38b-7b52-4890-a638-100cbc755739)
 
 
-Abstante is a modern, geometric and minimalistic font.
+## Features:
+Abstante is a modern, geometric and minimalistic font constructed with a few geometric shapes with constant thickness.
 
-- Type of usage: graphic projects, logos, branding.
-
+- Type of use: graphic projects, displays, branding, logos, headlines.
 - All uppercase characters: the lowercase character is equal to the uppercase.
+- Language support
+- Kerning
 
 ![1080 2](https://github.com/silverblurtype/abstante/assets/163983174/2c8bd8b9-c363-42cd-a834-1a4a56de3843)
 
